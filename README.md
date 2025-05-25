@@ -170,10 +170,8 @@ $ zphisher
 <table>
   <tr align="center">
     <td><img src="https://avatars.githubusercontent.com/u/78962948?s=100" /><br /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/26059688?s=100" /><br /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/59066012?s=100" /><br></td>
-    <td><img src="https://avatars.githubusercontent.com/u/57435273?s=100" /><br /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/78908440?s=100" /><br /></td>
+    
+    
    <td><img src="https://avatars.githubusercontent.com/u/28166400?s=100" /><br /></td>
   </tr>
   <tr align="center">
@@ -181,7 +179,7 @@ $ zphisher
     <td><img src="https://avatars.githubusercontent.com/u/67186139?s=100" /><br /></td>
     <td><img src="https://avatars.githubusercontent.com/u/36642137?s=100" /><br /></td>
     <td><img src="https://avatars.githubusercontent.com/u/68332137?s=100" /><br /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/64093255?s=100" /><br /></td>
+   
   </tr>
 <table>
 
