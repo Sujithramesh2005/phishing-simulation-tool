@@ -6,14 +6,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.3.5-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/Sujithramesh2005/zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/Suijthramesh2005/zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/Sujithramesh2005/zphisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/Sujithramesh2005/zphisher?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-htr--tech-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-Sujith-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-darkcyan?style=flat-square">
@@ -165,23 +165,23 @@ $ zphisher
 </p>
 
 
-### *Thanks to all contributors*:
+### * 
 
 <table>
   <tr align="center">
-    <td><a href="https://github.com/1RaY-1"><img src="https://avatars.githubusercontent.com/u/78962948?s=100" /><br /><sub><b>1RaY-1</b></sub></a></td>
-    <td><a href="https://github.com/adi1090x"><img src="https://avatars.githubusercontent.com/u/26059688?s=100" /><br /><sub><b>Aditya Shakya</b></sub></a></td>
-    <td><a href="https://github.com/AliMilani"><img src="https://avatars.githubusercontent.com/u/59066012?s=100" /><br /><sub><b>Ali Milani</b></sub></a></td>
-    <td><a href="https://github.com/Meht-evaS"><img src="https://avatars.githubusercontent.com/u/57435273?s=100" /><br /><sub><b>AmnesiA</b></sub></a></td>
-    <td><a href="https://github.com/KasRoudra"><img src="https://avatars.githubusercontent.com/u/78908440?s=100" /><br /><sub><b>KasRoudra</b></sub></a></td>
-   <td><a href="https://github.com/MoisesTapia"><img src="https://avatars.githubusercontent.com/u/28166400?s=100" /><br /><sub><b>Moises Tapia</b></sub></a></td>
+    <td><img src="https://avatars.githubusercontent.com/u/78962948?s=100" /><br /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/26059688?s=100" /><br /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/59066012?s=100" /><br></td>
+    <td><img src="https://avatars.githubusercontent.com/u/57435273?s=100" /><br /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/78908440?s=100" /><br /></td>
+   <td><img src="https://avatars.githubusercontent.com/u/28166400?s=100" /><br /></td>
   </tr>
   <tr align="center">
-   <td><a href="https://github.com/E343IO"><img src="https://avatars.githubusercontent.com/u/74646789?s=100" /><br /><sub><b>Mr.Derek</b></sub></a></td>
-    <td><a href="https://github.com/BDhackers009"><img src="https://avatars.githubusercontent.com/u/67186139?s=100" /><br /><sub><b>Mustakim Ahmed</b></sub></a></td>
-    <td><a href="https://github.com/sepp0"><img src="https://avatars.githubusercontent.com/u/36642137?s=100" /><br /><sub><b>sepp0</b></sub></a></td>
-    <td><a href="https://github.com/TripleHat"><img src="https://avatars.githubusercontent.com/u/68332137?s=100" /><br /><sub><b>TripleHat</b></sub></a></td>
-    <td><a href="https://github.com/Yisus7u7"><img src="https://avatars.githubusercontent.com/u/64093255?s=100" /><br /><sub><b>Yisus7u7</b></sub></a></td>
+   <td><img src="https://avatars.githubusercontent.com/u/74646789?s=100" /><br /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/67186139?s=100" /><br /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/36642137?s=100" /><br /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/68332137?s=100" /><br /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/64093255?s=100" /><br /></td>
   </tr>
 <table>
 
