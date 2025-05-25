@@ -49,6 +49,12 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 ##
 
+<p align="center">
+  <img src="https://github.com/Sujithramesh2005/phishing-simulation-tool/blob/main/zphisher.png?raw=true">
+</p>
+
+
+
 ### Installation
 
 - Just, Clone this repository -
