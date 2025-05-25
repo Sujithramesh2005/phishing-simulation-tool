@@ -1,7 +1,7 @@
 <!-- Zphisher -->
 
 <p align="center">
-  <img src=".github/misc/logo.png">
+  <img src="https://github.com/Sujithramesh2005/phishing-simulation-tool/blob/main/zphisher.png?raw=true">
 </p>
 
 <p align="center">
