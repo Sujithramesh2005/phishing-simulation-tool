@@ -50,7 +50,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 ##
 
 <p align="center">
-  <img src="https://github.com/Sujithramesh2005/phishing-simulation-tool/blob/main/zphisher.png?raw=true">
+  <img src="https://github.com/Sujithramesh2005/phishing-simulation-tool/blob/main/workflow.gif?raw=true">
 </p>
 
 
@@ -158,12 +158,7 @@ $ zphisher
 
 ##
 
-<h3 align="center"><i>:: Workflow ::</i></h3>
-<p align="center">
-<img src=".github/misc/workflow.gif"/>
-</p>
 
-##
 
 ### Find Me on:
 <p align="left">
